@@ -78,16 +78,6 @@ Resido em **Coreaú, Ceará, Brasil**, e atuo há **mais de 4 anos** no desenvol
 
 ---
 
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloAlbuquerqueLima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlbuquerqueLima&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloAlbuquerqueLima&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade"/>
-</div>
 
 ## 🤝 Vamos conversar?
 
